@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/heatedharth/personal-portfolio.git/static/css/main.4a273bf4.css",
+    "main.js": "/heatedharth/personal-portfolio.git/static/js/main.70415780.js",
+    "static/media/proj1.png": "/heatedharth/personal-portfolio.git/static/media/proj1.2fc44734295798a4b263.png",
+    "static/media/proj3.png": "/heatedharth/personal-portfolio.git/static/media/proj3.112d34948ffe1d45d635.png",
+    "static/media/proj2.png": "/heatedharth/personal-portfolio.git/static/media/proj2.122f5846e92c8ed3e2c6.png",
+    "index.html": "/heatedharth/personal-portfolio.git/index.html",
+    "main.4a273bf4.css.map": "/heatedharth/personal-portfolio.git/static/css/main.4a273bf4.css.map",
+    "main.70415780.js.map": "/heatedharth/personal-portfolio.git/static/js/main.70415780.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a273bf4.css",
+    "static/js/main.70415780.js"
+  ]
+}
