@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff0f6;
+    /* Light pink background */
+    color: #333;
+    /* Dark text for contrast */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+h1,
+h2,
+h3 {
+    color: #f56fa1;
+    /* Light pink text color */
+}
+
+a {
+    color: #ff69b4;
+    /* Hot pink for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

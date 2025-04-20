@@ -1,0 +1,31 @@
+.contactContainer {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #fff;
+}
+
+.formGroup {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+.reachOut {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.socialLinks {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    /* space between GitHub, LinkedIn, Email links */
+    margin-top: 1rem;
+}
+
+.error {
+    color: red;
+    font-size: 0.875rem;
+    margin-top: 4px;
+}
